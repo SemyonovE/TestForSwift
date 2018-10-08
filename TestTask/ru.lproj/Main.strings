@@ -1,0 +1,24 @@
+
+/* Class = "UITabBarItem"; title = "Galery"; ObjectID = "5JL-gN-L3V"; */
+"5JL-gN-L3V.title" = "Галерея";
+
+/* Class = "UITabBarItem"; title = "Service"; ObjectID = "Ern-Di-nzh"; */
+"Ern-Di-nzh.title" = "Сервис";
+
+/* Class = "UILabel"; text = "The screen is unavailable"; ObjectID = "Ube-Dg-lgz"; */
+"Ube-Dg-lgz.text" = "Экран недоступен";
+
+/* Class = "UINavigationItem"; title = "Service"; ObjectID = "ZH5-8y-tyx"; */
+"ZH5-8y-tyx.title" = "Сервис";
+
+/* Class = "UITabBarItem"; title = "List"; ObjectID = "gV9-dX-opA"; */
+"gV9-dX-opA.title" = "Список";
+
+/* Class = "UINavigationItem"; title = "List"; ObjectID = "ntj-OW-0HW"; */
+"ntj-OW-0HW.title" = "Список";
+
+/* Class = "UINavigationItem"; title = "Galery"; ObjectID = "qAk-oJ-yWK"; */
+"qAk-oJ-yWK.title" = "Галерея";
+
+/* Class = "UILabel"; text = "The screen is unavailable"; ObjectID = "qSF-4p-HsQ"; */
+"qSF-4p-HsQ.text" = "Экран недоступен";
